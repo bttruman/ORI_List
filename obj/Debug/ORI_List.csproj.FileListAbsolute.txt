@@ -1,0 +1,11 @@
+C:\Users\btruman\Desktop\ORI_List\obj\Debug\ORI_List.Properties.Resources.resources
+C:\Users\btruman\Desktop\ORI_List\obj\Debug\ORI_List.csproj.GenerateResource.cache
+C:\Users\btruman\Desktop\ORI_List\obj\Debug\ORI_List.csproj.CoreCompileInputs.cache
+C:\Users\btruman\Desktop\ORI_List\obj\Debug\ORI_List.ORI_List.resources
+C:\Users\btruman\Desktop\ORI_List\bin\Debug\ORI_Numbers.csv
+C:\Users\btruman\Desktop\ORI_List\bin\Debug\Ori_icon.ico
+C:\Users\btruman\Desktop\ORI_List\bin\Debug\ORI List.exe.config
+C:\Users\btruman\Desktop\ORI_List\bin\Debug\ORI List.exe
+C:\Users\btruman\Desktop\ORI_List\bin\Debug\ORI List.pdb
+C:\Users\btruman\Desktop\ORI_List\obj\Debug\ORI List.exe
+C:\Users\btruman\Desktop\ORI_List\obj\Debug\ORI List.pdb
