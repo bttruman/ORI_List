@@ -9,3 +9,15 @@ C:\Users\btruman\Desktop\ORI_List\bin\Debug\ORI List.exe
 C:\Users\btruman\Desktop\ORI_List\bin\Debug\ORI List.pdb
 C:\Users\btruman\Desktop\ORI_List\obj\Debug\ORI List.exe
 C:\Users\btruman\Desktop\ORI_List\obj\Debug\ORI List.pdb
+C:\ORI_List\bin\Debug\ORI_Numbers.csv
+C:\ORI_List\bin\Debug\Ori_icon.ico
+C:\ORI_List\bin\Debug\ORI List.exe.config
+C:\ORI_List\bin\Debug\ORI List.exe
+C:\ORI_List\obj\Debug\ORI_List.csproj.AssemblyReference.cache
+C:\ORI_List\obj\Debug\ORI_List.ORI_List.resources
+C:\ORI_List\obj\Debug\ORI_List.Properties.Resources.resources
+C:\ORI_List\obj\Debug\ORI_List.csproj.GenerateResource.cache
+C:\ORI_List\obj\Debug\ORI_List.csproj.CoreCompileInputs.cache
+C:\ORI_List\obj\Debug\ORI List.exe
+C:\ORI_List\obj\Debug\ORI List.pdb
+C:\ORI_List\bin\Debug\ORI List.pdb
